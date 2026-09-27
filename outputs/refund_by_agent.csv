@@ -1,0 +1,45 @@
+agent_id,refund_inr,tickets,name,site,team,tier,pct_tickets_still_gw_other
+A3036,773812.0,266,Ritika D'Souza,Indore,Returns Desk,1,8.3
+A3035,627682.0,235,Dev Kulkarni,Bengaluru,Billing,1,12.3
+A3030,507323.0,162,Aishwarya Trivedi,Indore,Logistics,1,16.0
+A3038,490184.0,171,Ankit Dhillon,Bengaluru,Returns Desk,1,6.4
+A3037,428670.0,175,Manish Iyer,Indore,Returns Desk,1,5.7
+A3032,338500.0,126,Sneha Bansal,Indore,Billing,1,9.5
+A3033,323954.0,113,Vikram Banerjee,Bengaluru,Billing,1,9.7
+A3034,289841.0,118,Tanvi Rathore,Indore,Billing,1,14.4
+A3018,231022.0,87,Krishna Bhatt,Indore,Email Frontline,1,19.5
+A3026,193955.0,65,Aadhya Deshpande,Bengaluru,Voice Frontline,1,18.5
+A3028,172413.0,57,Sameer Kapoor,Indore,Logistics,1,22.8
+A3039,170641.0,43,Reyansh Mishra,Bengaluru,Escalations & Warranty,2,44.2
+A3027,156694.0,43,Priya Agarwal,Indore,Logistics,1,14.0
+A3029,151218.0,45,Rajat Mukherjee,Bengaluru,Logistics,1,13.3
+A3031,124101.0,49,Zaid Desai,Indore,Logistics,1,6.1
+A3002,103853.0,30,Steven Ansari,Indore,Chat Frontline,1,30.0
+A3010,102255.0,32,Tenzin Mathew,Bengaluru,Chat Frontline,1,6.2
+A3013,94370.0,27,Rohit Nair,Bengaluru,Chat Frontline,1,7.4
+A3017,88352.0,32,Kabir Singh,Indore,Email Frontline,1,3.1
+A3007,87999.0,27,Abhishek Gupta,Indore,Chat Frontline,1,14.8
+A3011,84335.0,23,Rohit Gill,Bengaluru,Chat Frontline,1,17.4
+A3016,83716.0,28,Thomas Kumar,Indore,Email Frontline,1,14.3
+A3001,83065.0,22,Suresh Kaur,Indore,Chat Frontline,1,4.5
+A3015,82408.0,29,Sameer Jadhav,Bengaluru,Chat Frontline,1,24.1
+A3005,81023.0,31,Payal Bhatia,Indore,Chat Frontline,1,19.4
+A3003,76222.0,30,Komal Singh,Indore,Chat Frontline,1,6.7
+A3006,72548.0,31,Varun Bhatt,Bengaluru,Chat Frontline,1,16.1
+A3012,65481.0,24,Lakshmi Srivastava,Bengaluru,Chat Frontline,1,20.8
+A3014,64044.0,22,Anjali D'Souza,Bengaluru,Chat Frontline,1,27.3
+A3009,63041.0,26,Sukhwinder Singh,Indore,Chat Frontline,1,26.9
+A3008,59077.0,17,Meera Malhotra,Bengaluru,Chat Frontline,1,11.8
+A3021,55020.0,18,Meera Mathew,Bengaluru,Email Frontline,1,5.6
+A3020,47310.0,19,Aadhya Singh,Bengaluru,Email Frontline,1,21.1
+A3004,45618.0,16,Geeta Dutta,Bengaluru,Chat Frontline,1,12.5
+A3024,43923.0,14,Amit Deshpande,Bengaluru,Voice Frontline,1,14.3
+A3044,41450.0,9,Arjun Kumar,Bengaluru,Escalations & Warranty,2,33.3
+A3023,37505.0,10,Ritika Gaikwad,Bengaluru,Voice Frontline,1,0.0
+A3022,36722.0,17,Daniel Arora,Indore,Email Frontline,1,23.5
+A3041,28433.0,7,Mohammed Mehta,Bengaluru,Escalations & Warranty,2,42.9
+A3042,27670.0,9,Swati Bhatia,Indore,Escalations & Warranty,2,55.6
+A3019,22174.0,12,Kavya Agarwal,Indore,Email Frontline,1,16.7
+A3025,21767.0,9,Komal Malhotra,Bengaluru,Voice Frontline,1,44.4
+A3040,20035.0,9,Thomas Jadhav,Bengaluru,Escalations & Warranty,2,44.4
+A3043,10506.0,5,Nikhil Gupta,Bengaluru,Escalations & Warranty,2,40.0

@@ -1,0 +1,60 @@
+ticket_id,gold_reason_code,gold_notes
+TK-243586,DUP-PAYMENT,explicit duplicate payment confirmed by UTR
+TK-245265,RETURN-QC-OK,refund-after-return delay pattern
+TK-247354,CANCEL,cancel button greyed out before dispatch
+TK-245000,RETURN-QC-OK,refund-after-return delay pattern
+TK-241675,WTY-BUYBACK,pairing fault + refund AND replacement both issued (policy violation)
+TK-247882,CANCEL,cancel before dispatch
+TK-244561,DUP-PAYMENT,payment deducted no order created
+TK-241876,DUP-PAYMENT,payment deducted no order created
+TK-240984,GW-OTHER,firmware update failure - no clean fit
+TK-245535,WTY-BUYBACK,strap defect in-warranty
+TK-246601,DUP-PAYMENT,payment deducted no order created
+TK-241215,DUP-PAYMENT,payment deducted no order confirmation
+TK-241755,WTY-BUYBACK,display fault + refund AND replacement both issued (policy violation)
+TK-252693,RETURN-QC-OK,refund-after-return delay pattern
+TK-251186,RETURN-QC-OK,failed pickup handled through returns process
+TK-252726,WTY-BUYBACK,one-sided audio hardware fault
+TK-253804,WTY-BUYBACK,charging fault + refund AND replacement both issued (policy violation)
+TK-241284,CANCEL,ordered by mistake before dispatch
+TK-252291,CANCEL,cancellation request (agent tagged cancelled before dispatch)
+TK-243392,CANCEL,cancel before dispatch
+TK-247342,WTY-BUYBACK,one-sided audio fault + refund AND replacement both issued (policy violation)
+TK-250604,CANCEL,cancel before dispatch
+TK-247350,RETURN-QC-OK,refund not credited pattern
+TK-247905,DUP-PAYMENT,UPI success app shows nothing
+TK-251856,DUP-PAYMENT,double payment deducted
+TK-253023,LOST-TRANSIT,delivery stuck / not received
+TK-247610,RETURN-QC-OK,refund-after-return delay pattern
+TK-246844,DOA-REPL,wrong item delivered + refund AND replacement both issued (policy violation)
+TK-253997,LOST-TRANSIT,agent explicitly says lost in transit + refund AND replacement both issued (policy violation)
+TK-252173,GW-OTHER,issue resolved by troubleshooting; refund was appeasement not a defined reason
+TK-250877,DUP-PAYMENT,payment deducted no order id
+TK-248849,LOST-TRANSIT,order not delivered tracking stuck
+TK-248782,CANCEL,cancel before dispatch
+TK-249912,RETURN-QC-OK,refund not credited pattern
+TK-250155,RETURN-QC-OK,refund pending after return
+TK-245793,DUP-PAYMENT,payment deducted no order created
+TK-253929,DUP-PAYMENT,payment went through no order id
+TK-249130,CANCEL,cancel request
+TK-249713,LOST-TRANSIT,arrived damaged (policy S5: damaged in transit) + refund AND replacement both issued (policy violation)
+TK-254317,WTY-BUYBACK,pairing/connectivity hardware fault
+TK-240338,RETURN-QC-OK,item picked up refund not credited
+TK-240492,CANCEL,wrong colour cancel before dispatch
+TK-250886,WTY-BUYBACK,strap breakage + refund AND replacement both issued (policy violation)
+TK-240146,RETURN-QC-OK,refund delay pattern
+TK-242985,GW-OTHER,issue resolved by troubleshooting; refund+new unit framed as one-time gesture (policy violation)
+TK-247664,RETURN-QC-OK,item picked up refund not credited
+TK-249490,DOA-REPL,wrong item received
+TK-250722,LOST-TRANSIT,delivery not received reshipped
+TK-245136,RETURN-QC-OK,missed pickup handled through returns process
+TK-242266,CANCEL,cancel before dispatch
+TK-244677,GW-OTHER,issue resolved via reset; refund+new unit framed as goodwill (policy violation)
+TK-253682,DOA-REPL,wrong product delivered
+TK-247145,GW-OTHER,refund delay resolved with replacement explicitly as goodwill (policy violation)
+TK-246642,DUP-PAYMENT,payment went through no order id
+TK-252357,RETURN-QC-OK,refund delay + new piece dispatched same day (policy violation)
+TK-248342,RETURN-QC-OK,refund-after-return delay pattern
+TK-245563,RETURN-QC-OK,refund promised and delayed
+TK-243514,PRICE-ADJ,promo code invalid
+TK-248705,DOA-REPL,wrong product in box + refund AND replacement both issued (policy violation)
